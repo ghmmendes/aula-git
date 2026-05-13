@@ -1,2 +1,1 @@
-Meu primeiro arquivo Git
-Nova linha adicionada
+Alteração na branch
