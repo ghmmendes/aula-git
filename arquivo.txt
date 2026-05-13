@@ -1,3 +1,5 @@
-Meu primeiro arquivo git
+Meu primeiro arquivo Git
 Nova linha adicionada
+Alteração na branch
 Linha conflitante B
+Linha conflitante A
