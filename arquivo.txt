@@ -1,2 +1,3 @@
 Meu primeiro arquivo git
 Nova linha adicionada
+Linha conflitante B
