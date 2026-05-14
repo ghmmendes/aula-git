@@ -3,3 +3,5 @@ Nova linha adicionada
 Alteração na branch
 Linha conflitante B
 Linha conflitante A
+linha adicional github
+Alteração via GitHub flow
